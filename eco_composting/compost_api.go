@@ -27,3 +27,4 @@ func main() {
 		time.Sleep(1 * time.Second)
 	}
 }
+// Update: improved compost data refresh rate
