@@ -17,3 +17,4 @@ To integrate technology and sustainability for large-scale cultural events using
 ## Developed by:
 **Aisana Orynbayeva**  
 Astana IT University | SE-2304  
+*Sprint 1 update: modules refined and integration tested.*
